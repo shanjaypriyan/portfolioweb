@@ -19,6 +19,10 @@ html {
     --main-color:#005eff;
 
 }
+#justi{
+    text-align: justify;
+}
+
 body{
     background: var(--bg-color);
     color: var(--text-color);
